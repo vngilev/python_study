@@ -1,0 +1,28 @@
+12
+G : F
+A
+B : A
+C : A
+D : B C Y
+E : D
+F : D
+X
+Y : X A
+Z : X
+V : Z Y
+W : V
+5
+B
+G
+E
+W
+C
+    A   X
+   /|\ / \
+  B C Y   Z
+   \|  \ /
+    D   V
+   / \   \
+  E   F   W
+       \
+        G
